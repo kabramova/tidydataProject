@@ -57,7 +57,7 @@ The files that are used for processing the data are:
 
 * 'test/subject_test.txt'
 
-See the Code Book (section *Used raw data*) for an explanation of this decision.
+See the Code Book (section *Deriving relevant raw data*) for an explanation of this decision.
 
 # Producing the tidy data
 
